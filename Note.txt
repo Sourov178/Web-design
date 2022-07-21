@@ -1,0 +1,8 @@
+1.tag, attribute, anchor,href
+2. image display
+3. order-list,ul,container tag
+4. button, input ,passward
+5. div,small,br
+
+
+                      list item == li,  order list= ol, unorder list = ul
